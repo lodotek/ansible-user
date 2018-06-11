@@ -73,7 +73,7 @@ directory and then make it look something like this:
 ```
 ---
 
-user_name: "thor"
+user_name: "satoshi"
 ```
 
 Now you would run `ansible-playbook -i inventory/hosts site.yml -t user`.
